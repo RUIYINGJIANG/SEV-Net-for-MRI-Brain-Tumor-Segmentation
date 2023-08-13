@@ -1,5 +1,5 @@
 # SEV-Net-for-MRI-Brain-Tumor-Segmentation
-SEV-Net for MRI Brain Tumor Segmentation
+
 # Keywords: image analysis, neural networks, brain imaging, V-Net, SENet.
 
 # Background 
